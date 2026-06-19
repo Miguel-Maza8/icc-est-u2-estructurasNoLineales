@@ -1,18 +1,23 @@
-## Getting Started
+# Práctica: Estructuras No lineales 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Datos del Estudiante
+- **Nombre:** Miguel Maza
+- **Curso:** Computacion grupo 1
+- **Fecha:** 16- 06-2026
 
-## Folder Structure
+---
+## 1. Implementación del metodo recursivo en la clase IntTree
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+**Fecha:** 16/6/2026
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+**Descripción:** En esta practica se implemento el metodo recursivo que nos permite insertar numeros , si el numero es menor a la raiz se inserta a la izquierda y si es mayor a la derecha 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## 2. Impresion del arbol en recorridos Pre-Orden , Pos-Orden , in-Orden
+
+
+**Fecha:** 19/6/2026
+
+**Descripción:** 
