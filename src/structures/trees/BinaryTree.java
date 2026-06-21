@@ -1,6 +1,5 @@
 package structures.trees;
 
-import models.Persona;
 import structures.node.Node;
 
 public class BinaryTree<T extends Comparable<T>> {
@@ -9,8 +8,8 @@ public class BinaryTree<T extends Comparable<T>> {
     
     private int peso;
 
-    public BinaryTree(Node<T> root, int peso) {
-        this.root = root;
+    public BinaryTree() {
+        this.root = null;
         this.peso = 0;
     }
 
@@ -31,9 +30,11 @@ public class BinaryTree<T extends Comparable<T>> {
     }
     //Constructor
 
-    public void add(Persona value){
+    public void add(T value){
         Node<T> node = new Node<T>(value);
         root = addRecursivo(root, node);
+        peso++;
+
     }
     //Preorden 
 

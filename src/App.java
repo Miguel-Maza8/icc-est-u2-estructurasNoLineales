@@ -33,11 +33,13 @@ import structures.trees.IntTree;
 
      private static void runBinaryTree() {
       BinaryTree<String> arbolString = new BinaryTree<>();
-      BinaryTree<String> arbolPersonas = new BinaryTree<>();
-      arbolPersonas.add(new Persona("Juan", 25));
+      BinaryTree<Persona> arbolPersonas = new BinaryTree<>();
+      arbolPersonas.add(new Persona("Miguel",2));
       arbolPersonas.add(new Persona("Maria", 30));
       arbolPersonas.add(new Persona("Pedro", 20));
       arbolPersonas.add(new Persona("Ana", 35));
+      System.out.println("Arbol Personas");
+      arbolPersonas.preOrden();
     }
 
 

@@ -23,13 +23,13 @@ public class IntTree {
         this.peso = peso;
     }
     
-    // public void setRoot(Integer value){
-    //     Node<Integer> node = new Node<Integer>(value);
-    //     this.root = node;
+     public void setRoot(Integer value){
+        Node<Integer> node = new Node<Integer>(value);
+        this.root = node;
         
 
     }
-    public void add(Integer value){
+    public void add(int value){
         Node<Integer> node = new Node<Integer>(value);
         root = addRecursivo(root, node);
         peso++;

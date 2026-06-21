@@ -1,5 +1,7 @@
 package structures.node;
 
+import models.Persona;
+
 public class Node<T> {
     private T value ;
     private Node<T> left;
