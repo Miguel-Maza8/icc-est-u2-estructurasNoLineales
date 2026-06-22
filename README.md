@@ -20,4 +20,9 @@
 
 **Fecha:** 19/6/2026
 
-**Descripción:** 
+**Descripción:** Se implemento los metodos recursivos para la impresion 
+
+## 3. Impresion del arbol en recorridos Pre-Orden , Pos-Orden , in-Orden
+
+
+**Fecha:** 22/6/2026

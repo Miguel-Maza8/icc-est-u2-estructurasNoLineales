@@ -134,4 +134,21 @@ public class IntTree {
 
         return heightLeft + heightRight + 1;
     }
+    public void arbolOrden(){
+        arbolOrdenRecursivo(root, 3);
+    }
+    
+   
+    private void arbolOrdenRecursivo( Node<Integer> root, int nivel) {
+      if (nivel == 0){
+         System.out.println("           ");
+         return ;
+      }
+      
+      arbolOrdenRecursivo(root.getRigtht(), nivel-1);
+      System.out.println(nivel + "  ");
+      arbolOrdenRecursivo(root.getRigtht(), nivel -1);
+      System.out.println(nivel + " ");
+      
+    }
 }
