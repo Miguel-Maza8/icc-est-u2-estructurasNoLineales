@@ -11,18 +11,32 @@
 
 **Fecha:** 16/6/2026
 
-**Descripción:** En esta practica se implemento el metodo recursivo que nos permite insertar numeros , si el numero es menor a la raiz se inserta a la izquierda y si es mayor a la derecha 
+**Descripción:** En esta practica se implemento el metodo recursivo que nos permite insertar numeros , si el numero es menor a la raiz se inserta a la izquierda y si es mayor a la derecha.
 
+**Metodo add**
 
+![alt text](src/assets/image.png)
 
-## 2. Impresion del arbol en recorridos Pre-Orden , Pos-Orden , in-Orden
+**Metodo recursivo**
+![alt text](<src/assets/image 2.png>)
+
+## 2. Impresion del arbol en recorridos Pre-Orden , Pos-Orden , in-Orden el peso y altura.
 
 
 **Fecha:** 19/6/2026
 
-**Descripción:** Se implemento los metodos recursivos para la impresion 
+**Descripción:** Se implemento los metodos recursivos para la impresion de recorridos de arboles binarios.
 
-## 3. Impresion del arbol en recorridos Pre-Orden , Pos-Orden , in-Orden
+**Pre- Orden**
+![alt text](<src/assets/image 3.png>)
+**Pos- Orden**
+
+![alt text](<src/assets/image 4.png>)
+**In - Orden**
+![alt text](<src/assets/image 5.png>)
+**Altura**
+![alt text](<src/assets/image 6.png>)
+**Peso**
+![alt text](<src/assets/image 7.png>)
 
 
-**Fecha:** 22/6/2026

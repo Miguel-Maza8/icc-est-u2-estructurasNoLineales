@@ -34,8 +34,6 @@ public class IntTree {
         root = addRecursivo(root, node);
         peso++;
     }
-    //Preorden 
-
 
     private Node<Integer> addRecursivo(Node<Integer> actual, Node<Integer> nodeInsertar){
         if (actual == null) 
