@@ -28,22 +28,33 @@
 **Descripción:** Se implemento los metodos recursivos para la impresion de recorridos de arboles binarios, ademas se implemento un arbol de personas.
 
 **Pre- Orden**
+
 ![alt text](<src/assets/image 3.png>)
+
 **Pos- Orden**
 
 ![alt text](<src/assets/image 4.png>)
+
 **In - Orden**
+
 ![alt text](<src/assets/image 5.png>)
+
 **Altura**
+
 ![alt text](<src/assets/image 6.png>)
+
 **Peso**
+
 ![alt text](<src/assets/image 7.png>)
+
 **Insercion de personas**
 
 ![alt text](<src/assets/image 9.png>)
+
 **Impresion en consola**
 
 ![alt text](<src/assets/image 8.png>)
+
 **Impresion del arboles de personas**
 
 ![alt text](<src/assets/image 10.png>)
