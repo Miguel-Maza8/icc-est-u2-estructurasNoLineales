@@ -58,3 +58,13 @@
 **Impresion del arboles de personas**
 
 ![alt text](<src/assets/image 10.png>)
+
+## 3. Implementación del metodo sets 
+**Fecha:** 29/6/2026
+
+**Descripción:** Se implemento los sets con la implementacion de los has 
+
+## 4. Implementación del metodo map
+**Fecha:** 1/6/2026
+
+**Descripción:** Se implemento los metodos recursivos para la impresion de recorridos de arboles binarios, ademas se implemento un arbol de personas.
