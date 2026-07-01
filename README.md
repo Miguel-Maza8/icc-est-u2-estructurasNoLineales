@@ -67,4 +67,4 @@
 ## 4. Implementación del metodo map
 **Fecha:** 1/6/2026
 
-**Descripción:** Se implemento los metodos recursivos para la impresion de recorridos de arboles binarios, ademas se implemento un arbol de personas.
+**Descripción:** Se implemento la clase Maps 
